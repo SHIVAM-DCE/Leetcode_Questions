@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0001-two-sum) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
