@@ -7,4 +7,3 @@ select  id,
         else 'Leaf'
     end as type
 from tree
-order by id
