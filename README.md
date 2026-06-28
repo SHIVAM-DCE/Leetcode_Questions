@@ -23,5 +23,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1070-product-sales-analysis-iii) |
+| [1321-restaurant-growth](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1321-restaurant-growth) |
 | [1393-capital-gainloss](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1393-capital-gainloss) |
 <!---LeetCode Topics End-->
