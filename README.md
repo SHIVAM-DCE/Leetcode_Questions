@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1070-product-sales-analysis-iii](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1070-product-sales-analysis-iii) |
 | [1321-restaurant-growth](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1321-restaurant-growth) |
 | [1393-capital-gainloss](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1393-capital-gainloss) |
+| [1907-count-salary-categories](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1907-count-salary-categories) |
 | [3475-dna-pattern-recognition](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/3475-dna-pattern-recognition) |
 | [3497-analyze-subscription-conversion](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/3497-analyze-subscription-conversion) |
 <!---LeetCode Topics End-->
