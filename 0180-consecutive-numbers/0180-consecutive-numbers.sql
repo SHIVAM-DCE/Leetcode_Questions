@@ -1,5 +1,5 @@
 -- # Write your MySQL query statement below
---
+###--join approach
 -- select distinct l1.num as ConsecutiveNums
 -- from Logs l1
 -- join logs l2 on l2.id=l1.id+1
