@@ -31,4 +31,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1907-count-salary-categories](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1907-count-salary-categories) |
 | [3475-dna-pattern-recognition](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/3475-dna-pattern-recognition) |
 | [3497-analyze-subscription-conversion](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/3497-analyze-subscription-conversion) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0005-longest-palindromic-substring) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
