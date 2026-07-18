@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
 
-    //galat ahi hash map ka use hoga
+    //galat hai hash map ka use hoga
     //     sort(nums.begin(),nums.end());
     //     int start=0;
     //     int end=nums.size()-1;
