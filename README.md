@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0012-integer-to-roman) |
 | [2769-find-the-maximum-achievable-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/2769-find-the-maximum-achievable-number) |
+| [2806-account-balance-after-rounded-purchase](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/2806-account-balance-after-rounded-purchase) |
 ## Sorting
 |  |
 | ------- |
