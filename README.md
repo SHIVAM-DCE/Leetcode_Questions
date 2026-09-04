@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0012-integer-to-roman) |
+| [0258-add-digits](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0258-add-digits) |
 | [2235-add-two-integers](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/2235-add-two-integers) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2651-calculate-delayed-arrival-time](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/2651-calculate-delayed-arrival-time) |
@@ -89,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/3024-type-of-triangle) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
