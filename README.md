@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0049-group-anagrams) |
+| [0268-missing-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0485-max-consecutive-ones) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0049-group-anagrams) |
+| [0268-missing-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0268-missing-number) |
 ## Database
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0012-integer-to-roman) |
 | [0258-add-digits](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1518-water-bottles](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1518-water-bottles) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0049-group-anagrams) |
+| [0268-missing-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3024-type-of-triangle](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/3536-maximum-product-of-two-digits) |
@@ -116,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
@@ -133,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
