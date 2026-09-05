@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3024-type-of-triangle](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/3024-type-of-triangle) |
 | [3115-maximum-prime-difference](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/3115-maximum-prime-difference) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3115-maximum-prime-difference](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/3115-maximum-prime-difference) |
 | [3516-find-closest-person](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3783-mirror-distance-of-an-integer](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Sorting
 |  |
