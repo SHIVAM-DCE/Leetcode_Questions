@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3024-type-of-triangle](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/3024-type-of-triangle) |
+| [3115-maximum-prime-difference](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/3115-maximum-prime-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2806-account-balance-after-rounded-purchase](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3024-type-of-triangle](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/3024-type-of-triangle) |
 | [3100-water-bottles-ii](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/3100-water-bottles-ii) |
+| [3115-maximum-prime-difference](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/3115-maximum-prime-difference) |
 | [3516-find-closest-person](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0258-add-digits) |
+| [3115-maximum-prime-difference](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/3115-maximum-prime-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -119,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0509-fibonacci-number) |
+## Primality Test
+|  |
+| ------- |
+| [3115-maximum-prime-difference](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/3115-maximum-prime-difference) |
 <!---LeetCode Topics End-->
