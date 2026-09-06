@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0189-rotate-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0485-max-consecutive-ones) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0005-longest-palindromic-substring) |
+| [0189-rotate-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0012-integer-to-roman) |
+| [0189-rotate-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0509-fibonacci-number) |
