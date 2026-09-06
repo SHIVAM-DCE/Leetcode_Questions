@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0485-max-consecutive-ones) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0189-rotate-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0344-reverse-string) |
 ## String
 |  |
