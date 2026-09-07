@@ -23,13 +23,11 @@ public:
     int i=1;
     int j=1;
     while(i<size){
-        if(nums[i]==nums[i-1]){
-            i+=1;
-        }else{
+        if(nums[i]!=nums[i-1]){
             nums[j]=nums[i];
-            i++;
             j++;
         }
+        i++;
     }
     return j;
      }
