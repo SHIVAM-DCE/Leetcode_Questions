@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3783-mirror-distance-of-an-integer](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/3871-count-commas-in-range-ii) |
 ## Sorting
 |  |
 | ------- |
