@@ -11,28 +11,25 @@
  */
 class Solution {
 public:
-    int averageOfSubtree(TreeNode* root) {
-        int count = 0;
-        dfs(root, count);
-        return count;
+    int ans=0;
+    pair<int, int> helper(TreeNode* root){
+        if(root==NULL) return {0,0};
+
+        auto left = helper(root->left);
+        auto right = helper(root->right);
+
+        int sum=left.first+right.first+root->val;
+        int count=left.second+right.second+1;
+
+        if(sum/count==root->val){
+            ans++;
+        }
+
+        return {sum, count};
     }
 
-private:
-    std::pair<int, int> dfs(TreeNode* node, int& count) {
-        if (!node) {
-            return {0, 0};
-        }
-
-        auto [left_sum, left_count] = dfs(node->left, count);
-        auto [right_sum, right_count] = dfs(node->right, count);
-
-        int current_sum = node->val + left_sum + right_sum;
-        int current_count = 1 + left_count + right_count;
-
-        if (current_sum / current_count == node->val) {
-            count++;
-        }
-
-        return {current_sum, current_count};
+    int averageOfSubtree(TreeNode* root) {
+        helper(root);
+        return ans;
     }
 };
