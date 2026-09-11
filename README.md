@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0485-max-consecutive-ones) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
