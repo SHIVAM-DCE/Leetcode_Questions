@@ -11,10 +11,6 @@ public:
             newNum=newNum*10+rem;
             n=n/10;
         }
-        if(x==newNum){
-            return true;
-        }else{
-            return false;
-        }
+        return x==newNum;
     }
 };
