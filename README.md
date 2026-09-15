@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0268-missing-number) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
@@ -214,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
