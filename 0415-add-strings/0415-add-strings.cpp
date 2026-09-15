@@ -10,12 +10,10 @@ public:
             int sum=carry;
             
             if(i>=0){
-                sum+=num1[i]-'0';
-                i--;
+                sum+=num1[i--]-'0';
             }
             if(j>=0){
-                sum+=num2[j]-'0';
-                j--;
+                sum+=num2[j--]-'0';
             }
             carry=sum/10;
             ans+=sum%10+'0';
