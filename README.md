@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0728-self-dividing-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1518-water-bottles](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1518-water-bottles) |
