@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0415-add-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0415-add-strings) |
 | [1518-water-bottles](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1518-water-bottles) |
 | [3100-water-bottles-ii](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/3100-water-bottles-ii) |
 ## Number Theory
