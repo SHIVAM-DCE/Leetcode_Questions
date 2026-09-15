@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0367-valid-perfect-square) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Prefix Sum
 |  |
