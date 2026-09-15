@@ -5,7 +5,6 @@ public:
         while(area%w!=0){
             w--;
         }
-        int l=area/w;
-        return {l,w};
+        return {area/w,w};
     }
 };
