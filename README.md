@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0344-reverse-string) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0168-excel-sheet-column-title) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0415-add-strings) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0268-missing-number) |
