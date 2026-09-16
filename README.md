@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0509-fibonacci-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1025-divisor-game](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1137-n-th-tribonacci-number) |
 ## Math
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0976-largest-perimeter-triangle](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0989-add-to-array-form-of-integer) |
+| [1025-divisor-game](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1518-water-bottles](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1518-water-bottles) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1025-divisor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1025-divisor-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1025-divisor-game) |
 ## Counting
 |  |
 | ------- |
