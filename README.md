@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0812-largest-triangle-area) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0908-smallest-range-i](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0908-smallest-range-i) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0268-missing-number) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Database
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0836-rectangle-overlap) |
 | [0908-smallest-range-i](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0908-smallest-range-i) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1137-n-th-tribonacci-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1518-water-bottles](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1518-water-bottles) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0258-add-digits) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [3115-maximum-prime-difference](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/3115-maximum-prime-difference) |
 ## Bit Manipulation
 |  |
@@ -300,4 +304,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0292-nim-game) |
+## Counting
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
