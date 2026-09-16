@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0976-largest-perimeter-triangle](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0989-add-to-array-form-of-integer) |
+| [1037-valid-boomerang](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1037-valid-boomerang) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1025-divisor-game) |
+| [1037-valid-boomerang](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1037-valid-boomerang) |
 | [1137-n-th-tribonacci-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1518-water-bottles](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1518-water-bottles) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0812-largest-triangle-area](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0836-rectangle-overlap) |
+| [1037-valid-boomerang](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1037-valid-boomerang) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Polygons
 |  |
