@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0812-largest-triangle-area](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0812-largest-triangle-area) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1480-running-sum-of-1d-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0812-largest-triangle-area](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0812-largest-triangle-area) |
 | [1137-n-th-tribonacci-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1518-water-bottles](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1518-water-bottles) |
@@ -170,10 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0812-largest-triangle-area) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Polygons
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0812-largest-triangle-area) |
 | [3024-type-of-triangle](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/3024-type-of-triangle) |
 ## Simulation
 |  |
