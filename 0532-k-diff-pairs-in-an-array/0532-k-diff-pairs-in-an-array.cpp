@@ -64,9 +64,11 @@ public:
 
         int ans=0;
         for(auto& [num,count]:countMap){
-            if(k==0 && count>1){
-                ans++;
-            }else if(k>0){
+            if(k==0){
+                if(count>1){
+                    ans++;
+                } 
+            }else{
                 //k>0
                 // .count() ek fxn. hai jo btata hai ki key present hai ki nhi map me
                 if(countMap.count(num+k)) ans++;
