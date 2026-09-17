@@ -20,40 +20,40 @@ public:
     }
     int findPairs(vector<int>& nums, int k) {
 
-        //brut force method
-        // set<pair<int ,int>>ans;
-        // for(int i=0;i<nums.size();i++){
-        //     for(int j=i+1;j<nums.size();j++){
-        //         if(abs(nums[i]-nums[j])==k){
-        //             ans.insert({nums[i], nums[j]});
-        //         }
-        //     }
-        // }
-        // return ans.size();
+        // brut force method
+        set<pair<int ,int>>ans;
+        for(int i=0;i<nums.size();i++){
+            for(int j=i+1;j<nums.size();j++){
+                if(abs(nums[i]-nums[j])==k){
+                    ans.insert({min(nums[i], nums[j]),max(nums[i], nums[j])});
+                }
+            }
+        }
+        return ans.size();
 
 
 
         //two pointer method
-        sort(nums.begin(),nums.end());
-        int size=nums.size();
-        set<pair<int,int>> ans;
-        int i=0,j=1;
-        while(j<size){
-            int diff=nums[j]-nums[i];
-            if(diff==k){
-                ans.insert({nums[i],nums[j]});
-                i++;
-                j++;
-            }else if(diff>k){
-                i++;
-            }else{
-                j++;
-            }
-            if(i==j){
-                j++;
-            }
-        }
-        return ans.size();
+        // sort(nums.begin(),nums.end());
+        // int size=nums.size();
+        // set<pair<int,int>> ans;
+        // int i=0,j=1;
+        // while(j<size){
+        //     int diff=nums[j]-nums[i];
+        //     if(diff==k){
+        //         ans.insert({nums[i],nums[j]});
+        //         i++;
+        //         j++;
+        //     }else if(diff>k){
+        //         i++;
+        //     }else{
+        //         j++;
+        //     }
+        //     if(i==j){
+        //         j++;
+        //     }
+        // }
+        // return ans.size();
 
 
 
