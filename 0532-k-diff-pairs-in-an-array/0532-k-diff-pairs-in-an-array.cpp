@@ -21,15 +21,15 @@ public:
     int findPairs(vector<int>& nums, int k) {
 
         // brut force method
-        set<pair<int ,int>>ans;
-        for(int i=0;i<nums.size();i++){
-            for(int j=i+1;j<nums.size();j++){
-                if(abs(nums[i]-nums[j])==k){
-                    ans.insert({min(nums[i], nums[j]),max(nums[i], nums[j])});
-                }
-            }
-        }
-        return ans.size();
+        // set<pair<int ,int>>ans;
+        // for(int i=0;i<nums.size();i++){
+        //     for(int j=i+1;j<nums.size();j++){
+        //         if(abs(nums[i]-nums[j])==k){
+        //             ans.insert({min(nums[i], nums[j]),max(nums[i], nums[j])});
+        //         }
+        //     }
+        // }
+        // return ans.size();
 
 
 
@@ -54,6 +54,27 @@ public:
         //     }
         // }
         // return ans.size();
+
+
+        // unordered map technique
+        unordered_map<int,int> countMap;
+        for(int i=0;i<nums.size();i++){
+            countMap[nums[i]]++;
+        }
+
+        int ans=0;
+        for(auto& [num,count]:countMap){
+            if(k==0){
+                if(count>1){
+                    ans++;
+                }
+            }else{
+                //k>0
+                // .count() ek fxn. hai jo btata hai ki key present hai ki nhi map me
+                if(countMap.count(num+k)) ans++;
+            }
+        }
+        return ans;
 
 
 
