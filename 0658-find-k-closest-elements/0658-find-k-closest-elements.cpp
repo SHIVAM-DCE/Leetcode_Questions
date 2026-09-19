@@ -57,10 +57,10 @@ public:
     }
     vector<int> findClosestElements(vector<int>& arr, int k, int x) {
         //method 1
-        // return twoPointermethod(arr,k,x);
+        return twoPointermethod(arr,k,x);
 
 
         //method 2
-        return binarySearchmethod(arr,k,x);
+        // return binarySearchmethod(arr,k,x);
     }
 };
