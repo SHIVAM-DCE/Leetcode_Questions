@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0658-find-k-closest-elements) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0504-base-7) |
+| [0539-minimum-time-difference](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0539-minimum-time-difference) |
 | [0680-valid-palindrome-ii](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0509-fibonacci-number) |
+| [0539-minimum-time-difference](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0658-find-k-closest-elements) |
 | [0976-largest-perimeter-triangle](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0976-largest-perimeter-triangle) |
