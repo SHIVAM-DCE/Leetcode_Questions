@@ -2,9 +2,9 @@ class Solution {
 public:
     string removeOccurrences(string s, string part) {
 
-        //method 1: 
+        //method 1: original string me se hi chhedchhad krenge
         size_t position = s.find(part); //size_t ek unsigned datatype hota hai jo ki kisi bhi memory address ko btane ka kam krta hai generally (0 to 2^64-1)
-        while(position!=std::string::npos){     //npos ka meaning hota hai -1 generally;
+        while(position!=string::npos){     //npos ka meaning hota hai -1 generally;
             s.erase(position,part.length());
             position=s.find(part);          // agar string me part nhi milta hai to npos assign ho jayega aur fir condn check hoga (npos!=npos) jo ki galat hoga to loop rook jayega!
         }
