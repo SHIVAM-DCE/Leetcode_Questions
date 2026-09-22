@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0504-base-7) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0415-add-strings) |
 | [1103-distribute-candies-to-people](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1103-distribute-candies-to-people) |
 | [1518-water-bottles](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1518-water-bottles) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3100-water-bottles-ii](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/3100-water-bottles-ii) |
 ## Number Theory
 |  |
@@ -360,4 +362,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
