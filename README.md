@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0647-palindromic-substrings](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0658-find-k-closest-elements) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0415-add-strings) |
