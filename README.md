@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0345-reverse-vowels-of-a-string) |
