@@ -15,6 +15,7 @@ public:
             }
         }
 
+        // verifying that each character of string s is mapped to string t or not
         for(int i=0;i<s.size();i++){
             if(char(hash[s[i]])!=t[i]) return false;
         }
