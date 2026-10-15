@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0118-pascals-triangle) |
@@ -399,4 +400,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
