@@ -14,6 +14,7 @@ public:
             if(j>=0){
                 sum+=b[j--]-'0';
             }
+            // yaha 2 se divide kiye carry found krne k liye kyuki 2 se 2 ko divide krnr par quotient 1 aata hai aur remainder 0 aur dono ko sath likhe to 10 bnta hai jo ki 2 ki binary value hoti hai wahi agar hme integers ko jodna rhta to 10 ko use krte, octal k liye 8 ka.
             carry=sum/2;
             result+=to_string(sum%2);
         }
