@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0263-ugly-number) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0258-add-digits) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [3115-maximum-prime-difference](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/3115-maximum-prime-difference) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Primality Test
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0204-count-primes) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3115-maximum-prime-difference](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/3115-maximum-prime-difference) |
 ## Heap (Priority Queue)
@@ -412,4 +416,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0005-longest-palindromic-substring) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SHIVAM-DCE/Leetcode_Questions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
